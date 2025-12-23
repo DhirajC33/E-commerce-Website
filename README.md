@@ -1,4 +1,4 @@
-#🛒 JavaScript E-Commerce Website
+# 🛒 JavaScript E-Commerce Website
 
 🔗 Live Demo: https://js-ecom-website.netlify.app/
 
