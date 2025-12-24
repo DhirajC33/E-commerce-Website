@@ -1,42 +1,60 @@
-# 🛒 JavaScript E-Commerce Website
+# E-commerce Website
 
-🔗 Live Demo: https://js-ecom-website.netlify.app/
+A modern, responsive e-commerce web application built with **HTML**, **CSS**, and **JavaScript**, and deployed on **Netlify**. This project simulates a real online shopping experience and is ideal for portfolio showcases, beginner practice, or as a starter template for your own web store. :contentReference[oaicite:0]{index=0}
 
-A modern and responsive e-commerce website built using HTML, CSS, and JavaScript, designed to simulate a real online shopping experience. This project focuses on clean UI, interactive features, and front-end functionality without using heavy frameworks.
+## 🌐 Live Demo
 
-## 📌 Project Overview
+👉 https://js-ecom-website.netlify.app/ :contentReference[oaicite:1]{index=1}
 
-This e-commerce website allows users to browse products, view promotions, and interact with a shopping cart system. It is ideal for beginners and intermediate developers looking to strengthen their front-end JavaScript skills and understand how online stores work at a basic level.
+## 🛍️ Project Overview
+
+This e-commerce website allows users to:
+
+- Browse products with images, prices, and descriptions  
+- Add items to the shopping cart  
+- View cart item count and cart summary  
+- Interact with promotional banners and featured sections  
+- Enjoy a fully responsive UI for both desktop and mobile layouts :contentReference[oaicite:2]{index=2}
 
 ## ✨ Features
 
-🖥️ Fully responsive design (desktop & mobile friendly)
+✔️ Fully responsive design (mobile & desktop)  
+✔️ Product listings with dynamic add-to-cart  
+✔️ Cart preview and interaction  
+✔️ Promotional and featured product sections  
+✔️ Clean and user-friendly UI  
+✔️ Hosted on Netlify :contentReference[oaicite:3]{index=3}
 
-🛍️ Product listings with images and pricing
+## 🧰 Built With
 
-➕ Add-to-cart functionality
+- **HTML5** – Structure and content  
+- **CSS3** – Responsive layout and styling  
+- **JavaScript (ES6)** – Interactive behavior  
+- **Netlify** – Deployment :contentReference[oaicite:4]{index=4}
 
-🧾 Cart preview with item count
+## 📁 Project Structure
+     📦E-commerce-Website
+    ┣ 📂api
+    ┣ 📂public
+    ┣ 📂src
+    ┣ 📜index.html
+    ┣ 📜products.html
+    ┣ 📜style.css
+    ┣ 📜main.js
+    ┗ …other JS & assets 
 
-🔥 Promotional banners and discount sections
 
-📦 Featured products and new arrivals
+## 📌 Installation
 
-📧 Newsletter subscription section
+To run this project locally:
 
-🌍 Shipping, return, and support information
-
-🚀 Deployed on Netlify
-
-## 🛠️ Built With
-
-HTML5 – Structure and content
-
-CSS3 – Styling and responsive layout
-
-JavaScript (ES6) – Dynamic behavior and interactivity
-
-Netlify – Hosting and deployment
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/DhirajChaudhari33/E-commerce-Website.git
+2.Go to project directory
+  
+    cd E-commerce-Website
+3.Open index.html in your browser    
 
 ## 📸 Screenshots
 
@@ -45,7 +63,19 @@ Netlify – Hosting and deployment
 ## 🤝 Contributing
 
 Contributions are welcome!
-Feel free to fork this repository, improve the UI, or add new features.
+To contribute:
+
+1.Fork the repository
+
+2.Create a new branch (git checkout -b feature/YourFeature)
+
+3.Make your changes
+
+4.Commit your changes (git commit -m "Add new feature")
+
+5.Push to your branch (git push origin feature/YourFeature)
+
+6.Open a Pull Request
 
 ## 📄 License
 
